@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./images/professional%20pic.jpeg" alt="Bhavani Kanneboina" width="200" />
-</p>
 
 <h2 align="center">Hi there 👋 I'm Bhavani Kanneboina</h2>
 
