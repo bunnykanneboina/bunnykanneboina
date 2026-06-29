@@ -47,6 +47,9 @@ Full Stack E-Commerce Application using React.js, Node.js, Express.js and MySQL.
 #### 🌐 Personal Portfolio Website
 Responsive portfolio built using React.js, HTML, CSS and JavaScript.
 
+#### 💻 AI Virtual Mouse with Real-Time Hand Gesture Recognition.
+Implemented an AI-driven virtual mouse using computer vision to replace traditional mouse interactions with hand gestures.
+
 ---
 
 ### 💼 Experience
@@ -59,9 +62,11 @@ Responsive portfolio built using React.js, HTML, CSS and JavaScript.
 ---
 
 ### 📜 Certifications
+- TCS iON Career Edge – Young Professional
+- AWS Foundations: Getting Started with the AWS Cloud Essentials
 - SQL (Basic) – HackerRank
 - Introduction to Networks – Cisco
-- Social Media Marketing – Internshala
+
 
 ---
 
@@ -69,7 +74,8 @@ Responsive portfolio built using React.js, HTML, CSS and JavaScript.
 - 📧 Email: bunnykanneboina793@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/bhavani-kanneboina-/
 - 💻 GitHub: https://github.com/bunnykanneboina
+- 🌐 Personal Portfolio:https://kanneboinabhavani-portfolio.netlify.app/
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+⭐ Thanks for visiting my GitHub!
